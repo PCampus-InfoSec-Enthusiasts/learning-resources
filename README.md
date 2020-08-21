@@ -50,6 +50,10 @@
 
 * This repo has a lot of resources that may be required during a ctf challenge: <br>https://github.com/JohnHammond/ctf-katana
 
+* OSCP notes: <br>https://hackanythingfor.blogspot.com/2020/08/oscp-personal-notes.html?m=1
+
+* InfoSec Write-ups: <br>https://medium.com/bugbountywriteup
+
 .<br>
 .<br>
 .<br>
