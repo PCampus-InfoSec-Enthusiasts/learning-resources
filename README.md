@@ -85,4 +85,4 @@
 .<br>
 .<br>
 .<br>
-*All the resources/links above are collected from 'RESOURCES' in our Discord Server; credits to the ones who shared them as well as to the ones who created them.*
+*All the resources/links above are collected from 'RESOURCES' in our Discord Server; credits to the ones who shared them as well as to the ones who created them. Go to* [CONTRIBUTORS.md](./CONTRIBUTORS.md) *to see the list of contributors.*
