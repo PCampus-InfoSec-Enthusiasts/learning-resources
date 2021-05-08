@@ -49,6 +49,8 @@
 
 * CURL — Everything You Need To Know: <br>https://www.cybersecnerds.com/curl-everything-you-need-to-know/
 
+* static-binaries: <br>https://github.com/andrew-d/static-binaries
+
 
 *[Click here to go to top :arrow_up:](https://github.com/PCampus-InfoSec-Enthusiasts/learning-resources/#contents)*
 
