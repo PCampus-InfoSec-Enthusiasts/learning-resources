@@ -163,6 +163,8 @@
 
 * Playlist for Basics of Active Directory: <br>https://www.youtube.com/playlist?list=PL3B8L-z5QU-Yw80HOGXXUASBfv_K1WwO5
 
+* Windows Privesc Cheat Sheet : Similar to gtfobins: <br>https://wadcoms.github.io/
+
 
 *[Click here to go to top :arrow_up:](https://github.com/PCampus-InfoSec-Enthusiasts/learning-resources/#contents)*
 
