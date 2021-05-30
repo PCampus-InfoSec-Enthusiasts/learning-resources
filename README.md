@@ -165,6 +165,8 @@
 
 * Windows Privesc Cheat Sheet : Similar to gtfobins: <br>https://wadcoms.github.io/
 
+* Attacking Active Directory: <br>https://zer1t0.gitlab.io/posts/attacking_ad/
+
 
 *[Click here to go to top :arrow_up:](https://github.com/PCampus-InfoSec-Enthusiasts/learning-resources/#contents)*
 
